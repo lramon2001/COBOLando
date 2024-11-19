@@ -7,7 +7,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. PROG05.
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
@@ -38,4 +38,4 @@
             COMPUTE WRK-RESULTADO =(WRK-OPERADOR01+WRK-OPERADOR02)/2.
             DISPLAY 'MEDIA:        ' WRK-RESULTADO.
             STOP RUN.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM PROG05.
