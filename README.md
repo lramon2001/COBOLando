@@ -24,7 +24,7 @@ Repositório dedicado ao aprendizado e exploração da linguagem COBOL. Este esp
 - [PROG12.cob](https://github.com/lramon2001/COBOLando/blob/main/PROG12.cob) - Receber um número e exibir a tabuada dele usando `PERFORM VARYING`.
 - [PROG13.cob](https://github.com/lramon2001/COBOLando/blob/main/PROG13.cob) - Receber um número e exibir a tabuada até que seja digitado 'N'.
 - [PROG14.cob](https://github.com/lramon2001/COBOLando/blob/main/PROG14.cob) - Exemplo de uso do comando `COPY` para incluir um `book`.
-- [PROG15.cob](https://github.com/lramon2001/COBOLando/blob/main/PROG15.cob.cob) - Criar e exibir uma lista de times do bem.
+- [PROG15.cob](https://github.com/lramon2001/COBOLando/blob/main/PROG15.cob) - Criar e exibir uma lista de times do bem.
 - [BOOK.cob](https://github.com/lramon2001/COBOLando/blob/main/BOOK.cob) - Programa com variável a ser usada em outros fontes.
 
 ## Objetivo 🎯
