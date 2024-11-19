@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. PROG01.
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
@@ -13,4 +13,4 @@
        MAIN-PROCEDURE.
             DISPLAY "Vasco da Gama e nada mais."
             STOP RUN.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM PROG01.
